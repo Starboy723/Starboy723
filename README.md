@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starboy723&label=Profile%20views&color=0e75b6&style=flat" alt="starboy723" /> </p>
 
-- 🔭 I’m currently working on **Quiz app**
+- 🔭 I’m currently working on **tkinter**
 
 - 🌱 I’m currently learning **Html,css**
 
