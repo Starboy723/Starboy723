@@ -1,11 +1,11 @@
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://i.pinimg.com/564x/21/0c/c2/210cc2b19dd04434009cf6df985647f3.jpg)
 
 <h1 align="center">Hi 👋, I'm Gunda venkata sai</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/564x/21/0c/c2/210cc2b19dd04434009cf6df985647f3.jpg"<!-- "https://komarev.com/ghpvc/?username=starboy723&label=Profile%20views&color=0e75b6&style=flat" --> alt="starboy723" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starboy723&label=Profile%20views&color=0e75b6&style=flat" alt="starboy723" /> </p>
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
